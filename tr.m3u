@@ -7,11 +7,17 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1, tvg-id="360 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=568" tvg-name="360 HD" group-title="ULUSAL",360
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 
+#EXTINF:-1, tvg-id="A SPOR tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" tvg-name="A SPOR" group-title="SPOR",A SPOR
+https://new.cache-stream.workers.dev/stream/xrf_RbM_MNk/live.m3u8
+
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=391" tvg-name="ATV HD" group-title="ULUSAL",ATV
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/8/index.m3u8
 
 #EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=273" tvg-name="BEYAZ TV HD" group-title="ULUSAL",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+
+#EXTINF:-1, tvg-id="CAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/5/59/Caytv.png/120px-Caytv.png" tvg-name="CAY TV" group-title="YEREL",CAY TV
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 
 #EXTINF:-1, tvg-id="CNN TÜRK HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" tvg-name="CNN TÜRK HD" group-title="HABER",CNNTURK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
@@ -42,6 +48,9 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1, tvg-id="KRT TV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=634" tvg-name="KRT TV" group-title="HABER",KRT TV
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+#EXTINF:-1, tvg-id="MAVI KARADENIZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b0/Mavi_Karadeniz_TV_Logosu.jpg/120px-Mavi_Karadeniz_TV_Logosu.jpg" tvg-name="MAVI KARADENIZ TV" group-title="YEREL",MAVI KARADENIZ TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NTV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=432" tvg-name="NTV HD" group-title="HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -90,6 +99,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1, tvg-id="TV8 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=386" tvg-name="TV8 HD" group-title="ULUSAL",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1, tvg-id="TV85" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=595" tvg-name="TV85" group-title="ULUSAL",TV85
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 
 #EXTINF:-1, tvg-id="TV100" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=600" tvg-name="TV100" group-title="HABER",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
