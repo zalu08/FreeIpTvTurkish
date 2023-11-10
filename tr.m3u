@@ -7,7 +7,13 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1, tvg-id="360 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=568" tvg-name="360 HD" group-title="ULUSAL",360
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 
-#EXTINF:-1, tvg-id="A SPOR tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" tvg-name="A SPOR" group-title="SPOR",A SPOR
+#EXTINF:-1, tvg-id="ABU DHABI SPORTS 1" tvg-logo="https://i.ibb.co/L61bf70/adspts.png" tvg-name="ABU DHABI SPORTS 1" group-title="SPOR",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ABU DHABI SPORTS 2" tvg-logo="https://i.ibb.co/L61bf70/adspts.png" tvg-name="ABU DHABI SPORTS 2" group-title="SPOR",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="A SPOR" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" tvg-name="A SPOR" group-title="SPOR",A SPOR
 https://new.cache-stream.workers.dev/stream/xrf_RbM_MNk/live.m3u8
 
 #EXTINF:-1, tvg-id="ATV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=391" tvg-name="ATV HD" group-title="ULUSAL",ATV
