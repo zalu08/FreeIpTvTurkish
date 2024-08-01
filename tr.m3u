@@ -1,0 +1,112 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
+
+#EXTINF:-1 tvg-id="24 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=569" tvg-name="24 HD" group-title="HABER",24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="360 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=568" tvg-name="360 HD" group-title="ULUSAL",360
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="A HABER HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=367" tvg-name="A HABER HD" group-title="HABER",A HABER
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
+
+#EXTINF:-1 tvg-id="A SPOR HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=409" tvg-name="A SPOR HD" group-title="SPOR",A SPOR
+https://canlitvulusal.xyz/live/aspor/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=391" tvg-name="ATV HD" group-title="ULUSAL",ATV
+https://canlitvulusal.xyz/live/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=273" tvg-name="BEYAZ TV HD" group-title="ULUSAL",BEYAZ TV
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" tvg-name="CNN TÜRK HD" group-title="HABER",CNNTURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMAX HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=572" tvg-name="DMAX HD" group-title="BELGESEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-id="FB TV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=120" tvg-name="FB TV" group-title="SPOR",FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HABER GLOBAL HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=602" tvg-name="HABER GLOBAL HD" group-title="HABER",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+
+#EXTINF:-1 tvg-id="HABERTÜRK HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=333" tvg-name="HABERTÜRK HD" group-title="HABER",HABERTURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="HALK TV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=635" tvg-name="HALK TV" group-title="HABER",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="KANAL 7 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=514" tvg-name="KANAL 7 HD" group-title="ULUSAL",KANAL 7
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="KANAL D HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=453" tvg-name="KANAL D HD" group-title="ULUSAL",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-id="KRT TV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=634" tvg-name="KRT TV" group-title="HABER",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+#EXTINF:-1 tvg-id="NOW" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=555" tvg-name="NOW" group-title="ULUSAL",NOW TV
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="NTV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=432" tvg-name="NTV HD" group-title="HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="NUMBER1 TURK HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20160211/001300/001300000004627816/3e2ec118-ebb9-450d-989e-8363190ea86b.png" tvg-name="NUMBER1 TURK HD" group-title="MUZIK",NUMBER1 TURK
+http://pull1-poc.blutv.com/live/U6D3B4S2/U6D3B4S2_720p.m3u8
+
+#EXTINF:-1 tvg-id="POWER TURK HD tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20150703/001300/001300000008478862/efa10b07-3b20-468c-b292-a7521ad16943.png" tvg-name="POWER TURK HD" group-title="MUZIK",POWER TURK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOW TV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=392" tvg-name="SHOW TV HD" group-title="ULUSAL",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="SÖZCÜ TV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=647" tvg-name="SÖZCÜ TV" group-title="HABER",SOZCU TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="SPORTS TV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=654" tvg-name="SPORTS TV HD" group-title="SPOR",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR TV HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=389" tvg-name="STAR TV HD" group-title="ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="TELE1" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20190524/001300/XTV100001075/51759f75-f3b3-4320-889b-0be4dde1789b.png" tvg-name="TELE1" group-title="HABER",TELE1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="TEVE2 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" tvg-name="TEVE2 HD" group-title="ULUSAL",TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=245" tvg-name="TLC" group-title="BELGESEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1 tvg-id="TRT1 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=393" tvg-name="TRT1 HD" group-title="ULUSAL",TRT 1
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT 2 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=594" tvg-name="TRT 2 HD" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT BELGESEL HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=348" tvg-name="TRT BELGESEL HD" group-title="BELGESEL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT HABER HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=376" tvg-name="TRT HABER HD" group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT MÜZİK" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=580" tvg-name="TRT MÜZİK" group-title="MUZIK",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT SPOR HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=360" tvg-name="TRT SPOR HD" group-title="SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT SPOR YILDIZ" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=598" tvg-name="TRT SPOR YILDIZ" group-title="SPOR",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TV 4" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=630" tvg-name="TV 4" group-title="ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV8 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=386" tvg-name="TV8 HD" group-title="ULUSAL",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV8,5 HD" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=595" tvg-name="TV8,5 HD" group-title="ULUSAL",TV85
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
+
+#EXTINF:-1 tvg-id="TV100" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=600" tvg-name="TV100" group-title="HABER",TV 100
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
